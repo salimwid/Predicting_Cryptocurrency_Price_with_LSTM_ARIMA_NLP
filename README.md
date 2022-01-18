@@ -19,7 +19,7 @@ BTC price is volatile because of the following issues: <br>
 (iv) Lack of investment infrastructure<br>
 
 ### Datasets
-To accommodate the issues causing price volatility, we collected data which could be categorized into 4 groups: <strong> Industry Insights, Selected Bitcoin Price Indicators, Sentiment Analysis and Fiat-Based Assets Indicators</strong> Overall, 1,646,826 data points & 123,791 entries from 20 data sources were collected. <br>
+To accommodate the issues causing price volatility, we collected data which could be categorized into 4 groups: <strong> Industry Insights, Selected Bitcoin Price Indicators, Sentiment Analysis and Fiat-Based Assets Indicators. </strong> Overall, 1,646,826 data points & 123,791 entries from 20 data sources were collected. <br>
 
 The clean aggregated dataset has 41,403 data points, 1,488 entries and 30 selected features. <br>
 
