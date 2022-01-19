@@ -34,6 +34,6 @@ The final LSTM model had 4 hidden layers with ~20% dropouts, 50 epochs and valid
 Felipe Chapa Chamorro (@FelipeChapa)<br>
 Wong Cheng An (@wca91)<br>
 Widya Salim (@salimwid)<br>
-Sahil Sharma (@)<br>
-Ankit Malhotra (@)<br>
+Sahil Sharma (@Sss2107)<br>
+Ankit Malhotra (@analyticsardor)<br>
 Donghwan Kim (@hwaneest)
