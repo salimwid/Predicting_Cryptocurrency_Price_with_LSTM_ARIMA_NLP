@@ -31,9 +31,12 @@ Time series (ARIMA) and RNN (LSTM) model were then adopted to predict the price.
 The final LSTM model had 4 hidden layers with ~20% dropouts, 50 epochs and validation horizon of 5 months. The model gives MAPE of 7% and RMSE of 3,627.
 <br>
 ### Collaborators
-Felipe Chapa Chamorro (@FelipeChapa)<br>
-Wong Cheng An (@wca91)<br>
-Widya Salim (@salimwid)<br>
-Sahil Sharma (@Sss2107)<br>
 Ankit Malhotra (@analyticsardor)<br>
 Donghwan Kim (@hwaneest)
+Felipe Chapa Chamorro (@FelipeChapa)<br>
+Sahil Sharma (@Sss2107)<br>
+Widya Salim (@salimwid)<br>
+Wong Cheng An (@wca91)<br>
+
+
+
