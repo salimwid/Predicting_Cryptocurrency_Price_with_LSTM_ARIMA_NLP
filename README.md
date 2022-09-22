@@ -1,12 +1,12 @@
 # Predicting_Cryptocurrency_Price_with_LSTM_ARIMA_NLP
 
-#### Models Deployed
+### Models Deployed
 Artificial Recurrent Neural Network (RNN): Long-Short Term Memory, Natural Language Processing (NLP), Sentiment Analysis, Time Series (ARIMA)
 
-#### Techniques Employed
+### Techniques Employed
 Data Mining, Exploratory Data Analysis, Feature Engineering, Text Mining, Data Visualization, Machine Learning, Time Series Analysis, Financial Analysis, Parallel Processing
 
-#### Tools Employed
+### Tools Employed
 Pickle, Beautiful Soup, TensorFlow, VADER, TextBlob, Keras, pyplot, statsmodels, Trading View API, Twitter API, various news API
 
 ### Context
